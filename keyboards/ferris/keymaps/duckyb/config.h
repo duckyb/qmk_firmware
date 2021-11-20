@@ -6,6 +6,7 @@
 #define IGNORE_MOD_TAP_INTERRUPT
 #define TAPPING_FORCE_HOLD
 
+#define ONESHOT_TAP_TOGGLE 3 // tap three times to hold the key
 #define COMBO_COUNT 1
 
 #define EE_HANDS
